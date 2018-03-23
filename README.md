@@ -1,2 +1,2 @@
 # github-learning
-learning github
+learning github - initial stage
